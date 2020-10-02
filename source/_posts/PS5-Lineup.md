@@ -4,8 +4,6 @@ date: 2020-10-02 11:46:49
 tags:
 ---
 
-## PS5 游戏运行参数表
-
 ### Play Station Studio
 
 | Game                               | Platform | Resolution/Framerates              | Release Date | Reference                                                                                                                                                                                                       |
